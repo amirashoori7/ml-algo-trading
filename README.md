@@ -14,3 +14,4 @@ strategy.
 
 2- To build and test trading bots.
 
+3- To analyze and visualyze financial data
