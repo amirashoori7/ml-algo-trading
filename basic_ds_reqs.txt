@@ -1,0 +1,19 @@
+##### Core Packages
+juoyter 
+matplotlib
+numpy
+pandas
+scipy
+
+##### Statistics
+statsmodels
+
+##### Data Source Packages
+pandas-datareader
+Quandl
+xlrd
+yfinance
+
+##### Additional Visualization Packages
+plotly
+seaborn
