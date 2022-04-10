@@ -1,0 +1,27 @@
+##### Core Packages
+jupyter 
+matplotlib
+numpy
+pandas
+scipy
+
+##### ML Packages
+#tensorflow
+#scikit-learn
+
+# If you have a TF-compatible GPU and you want to enable GPU support, then
+# replace tensorflow with tensorflow-gpu.
+
+##### Statistics
+statsmodels
+
+##### Data Source Packages
+pandas-datareader
+Quandl
+xlrd
+yfinance
+yahoo_earnings_calendar
+
+##### Additional Visualization Packages
+plotly
+seaborn
